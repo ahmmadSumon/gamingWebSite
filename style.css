@@ -31,6 +31,7 @@ nav {
   background-color: #020100;
   width: 77vw;
   margin: auto;
+
 }
 
 nav .nav-con {}
@@ -93,7 +94,9 @@ nav .right .nav-btn a:hover {
 .nav-btn a:hover {
 
 }
-
+.main-menu {
+ padding-right: 30px;
+}
 .main-menu .active {
 
   font-size: 18px;
@@ -143,6 +146,7 @@ nav .main-menu li .nav-svg {
 nav .open-menu {
   font-size: 2rem;
   /* margin: 20px; */
+
   display: none;
   cursor: pointer;
   position: absolute;
